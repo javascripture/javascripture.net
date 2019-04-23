@@ -23,6 +23,8 @@ const versions = [
 	[ 'web', 'WEB' ],
 	[ 'esv', 'ESV' ],
 	[ 'lc', 'Literal' ],
+	[ 'faropv', 'ترجمه-ی قدام' ],
+	[ 'fartpv', 'مژده برای اسرع جدید' ],
 ];
 
 class VersionSelector extends React.Component{
